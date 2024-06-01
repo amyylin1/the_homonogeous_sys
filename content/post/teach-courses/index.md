@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
+title: 👩🏼‍🏫 Essentials of General Chemistry lab 
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+date: 
 math: true
 tags:
   - Hugo

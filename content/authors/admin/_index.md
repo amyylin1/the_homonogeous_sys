@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: The homogenous system  
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Amy Ying  
+last_name: Lin 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️ ♾️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Aspiring Statistician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Hunter College
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,18 +38,18 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/amyylin1
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/amy-ying-lin-960680163/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathmatics
+  - Statististics
+  - Neuroscience
 
 education:
   - area: PhD Artificial Intelligence
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc Artificial Intelligence `
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
