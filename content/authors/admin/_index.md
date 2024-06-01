@@ -1,6 +1,6 @@
 ---
 # Display name
-title: The homogenous system  
+title: Amy Ying Lin   
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -11,7 +11,7 @@ last_name: Lin
 
 # Status emoji
 status:
-  icon: ☕️ ♾️
+  icon: ☕️ 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Aspiring Statistician
+role: Aspiring Statistician, trained in Neuroscience
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ying.lin70@myhunter.cuny.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+    # url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/amyylin1
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amy-ying-lin-960680163/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/google-scholar
+    # url: https://scholar.google.com/
+  # - icon: academicons/orcid
+    # url: https://orcid.org/
 
 interests:
   - Mathmatics
@@ -52,21 +52,31 @@ interests:
   - Neuroscience
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Statistics and Applied Mathmatics
+    institution: Hunter College, CUNY
+    date_start: 2023-08-29
+    date_end: 2025-05-18
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      From 
+        Algebra (~ 9th to 16th centry)
+      to
+        analytic geometry Calculus of the 17th Century
+      to
+        Probability and Statistics (17th - 18th Century)
+      to
+        Set Theory and Linear Algebra (19th to 20th Century)
+      to 
+        mordern day depolyment of 
+
+    Learning math is a walk through the time-lapsed of human history!
+    
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
+  - area: Neuroscience and Pharmacology
+    institution: Boston University
+    date_end: 2020-12
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
