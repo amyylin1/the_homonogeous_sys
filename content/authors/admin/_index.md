@@ -67,8 +67,7 @@ education:
         Set Theory and Linear Algebra (19th to 20th Century)
       to 
         mordern day depolyment of 
-
-    Learning math is a walk through the time-lapsed of human history!
+      # Learning math is a walk through the time-lapsed of human history!
     
     # button:
       # text: 'Read Thesis'
@@ -86,7 +85,7 @@ education:
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: 
       GPA: 3.4/4.0
       
       Courses included:
@@ -100,7 +99,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: 
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
